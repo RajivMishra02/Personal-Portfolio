@@ -135,19 +135,6 @@ const experiences = [
       ],
     },
     {
-      title: "Computer Networking Intern",
-      company_name: "NMDC",
-      icon: nmdc,
-      iconBg: "#E6DEDD",
-      date: "June 2021 - August 2021",
-      points: [
-        "Understand the various applications of computer networking in a steel plant.",
-        "Properly study and get a brief idea about the implementation of internet and intranet facilities spanning the entire steel plant.",
-        "Getting knowledge about the SAP S4 HANA technology and it's useful integration and implementation.",
-        "Writting project reports and getting a knowledge on the wired and wireless technology.",
-      ],
-    },
-    {
       title: "FrontEnd Developer Intern",
       company_name: "SkillRazr",
       icon: skillrazr,
@@ -160,6 +147,20 @@ const experiences = [
         "Participating in code reviews and providing constructive feedback to other developers.",
       ],
     },
+    {
+      title: "Computer Networking Intern",
+      company_name: "NMDC",
+      icon: nmdc,
+      iconBg: "#E6DEDD",
+      date: "June 2021 - August 2021",
+      points: [
+        "Understand the various applications of computer networking in a steel plant.",
+        "Properly study and get a brief idea about the implementation of internet and intranet facilities spanning the entire steel plant.",
+        "Getting knowledge about the SAP S4 HANA technology and it's useful integration and implementation.",
+        "Writting project reports and getting a knowledge on the wired and wireless technology.",
+      ],
+    },
+    
     // {
     //   title: "React Native Developer",
     //   company_name: "Tesla",
