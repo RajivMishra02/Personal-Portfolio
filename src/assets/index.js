@@ -25,6 +25,7 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import skillrazr from "./company/skillrazr.svg";
+import ibm from "./company/ibm.png";
 import nmdc from "./company/nmdc.png";
 import tesla from "./company/tesla.png";
 import mofit from "./mofit.png";
@@ -60,6 +61,7 @@ export {
   shopify,
   starbucks,
   skillrazr,
+  ibm,
   nmdc,
   tesla,
   carrent,
