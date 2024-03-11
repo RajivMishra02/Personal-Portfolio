@@ -19,6 +19,7 @@ import {
     nmdc,
     starbucks,
     skillrazr,
+    ibm,
     tesla,
     shopify,
     carrent,
@@ -119,7 +120,20 @@ import {
     },
   ];
   
-  const experiences = [
+const experiences = [
+    {
+      title: "SAP BODS Intern",
+      company_name: "IBM",
+      icon: ibm,
+      iconBg: "#E6DEDD",
+      date: "January 2024 - June 2024",
+      points: [
+        "Undertook my training in SAP Basis domain for 30 business working days.",
+        "Passed the assessment with an aggregate of 90% in SAP Basis.",
+        "Assigned the SAP BODS Domain whoch completely focuses on the ETL Principle.",
+        "Worked on several projects for the client for maintaining and supporting the service."
+      ],
+    },
     {
       title: "Computer Networking Intern",
       company_name: "NMDC",
