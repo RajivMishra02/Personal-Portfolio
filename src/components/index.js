@@ -16,7 +16,7 @@ export {
   About,
   Tech,
   Experience,
-  Works,
+  // Works,
   
   Contact,
   CanvasLoader,
