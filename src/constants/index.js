@@ -121,6 +121,19 @@ import {
   ];
   
 const experiences = [
+        {
+      title: "Application Developer - SAP",
+      company_name: "IBM",
+      icon: ibm,
+      iconBg: "#E6DEDD",
+      date: "July 2024 - Present",
+      points: [
+        "Gained knowledge in various SAP technologies like SAP Basis, Security, BODS.",
+        "Working on real world problems to find creative solutions to tackle the hinderances in least possible time.",
+        "Constantly collaborating with clients and the intra teams to gain real world experience.",
+        "Gained several certifications related to project and cloud to testify my skills."
+      ],
+    },
     {
       title: "SAP BODS Intern",
       company_name: "IBM",
